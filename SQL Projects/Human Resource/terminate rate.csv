@@ -1,0 +1,14 @@
+department,totalcount,terminatecount,terminaterate
+Accounting,3192,566,0.177318296
+Auditing,50,12,0.24
+Business Development,1569,262,0.166985341
+Engineering,6387,1128,0.176608736
+Human Resources,1727,297,0.171974522
+Legal,299,62,0.20735786
+Marketing,480,70,0.145833333
+Product Management,623,111,0.178170144
+Research and Development,1032,202,0.195736434
+Sales,1745,319,0.182808023
+Services,1618,281,0.173671199
+Support,903,171,0.189368771
+Training,1622,284,0.175092478
